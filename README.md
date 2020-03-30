@@ -9,7 +9,7 @@ A QT5 pagram for file management.
 * File OCR module.
 
 # Dependencies
-* QQT 5.13.2
+* QT 5.13.2
 * boost 1.72.0
 * rapidjson v1.1 (2016-8-25)
 * SQLite 3.31.1
