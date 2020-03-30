@@ -27,6 +27,6 @@ A QT5 pagram for file management.
 |Explorer++|GPL 3.0|Uses modern C++. Lot's of windows api usage|
 |file-commander|apache-2.0|Uses modern C++14. Threaded. Uses QT5. No platform specific API.|
 
-The advantages of this program is non-GPL license and modern C++ usage. file-commander is the most similar to this Bookfiler™ File Manager's goals. The main difference between file-commander and Bookfiler™ File Manager is the UI. file-commander is a dual pane viewer and Bookfiler™ File Manager is a single pane tree view like qtfm.
+The advantages of this program is LGPL license and modern C++ usage. file-commander is the most similar to this Bookfiler™ File Manager's goals. The main difference between file-commander and Bookfiler™ File Manager is the UI. file-commander is a dual pane viewer and Bookfiler™ File Manager is a single pane tree view like qtfm.
 
 Bookfiler™ File Manager has been designed with reusable widgets and unit testing. The modular widgets can be included in other project's personal use or commercial use application.
